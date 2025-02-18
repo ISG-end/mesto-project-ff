@@ -1,7 +1,7 @@
 export const initialCards = [
     {
-      name: "Башня",
-      link: require('../images/b-halif.jpg'), 
+      name: "Архыз",
+      link: "https://pictures.s3.yandex.net/frontend-developer/cards-compressed/arkhyz.jpg",
     },
     {
       name: "Челябинская область",
@@ -24,3 +24,4 @@ export const initialCards = [
       link: "https://pictures.s3.yandex.net/frontend-developer/cards-compressed/baikal.jpg",
     }
 ];
+
